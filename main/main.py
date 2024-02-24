@@ -5,7 +5,7 @@ while True:
     conexao = mysql.connector.connect(
         host='localhost',
         user='root',
-        password='Asking@123',
+        password='***************',
         database='bd_crud',
     )
 
